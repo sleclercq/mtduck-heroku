@@ -1,0 +1,6 @@
+[submodule "mtgox-java"]
+	path = mtgox-java
+	url = https://github.com/sleclercq/mtgox-java.git
+[submodule "mtduck"]
+	path = mtduck
+	url = https://github.com/sleclercq/mtduck.git
